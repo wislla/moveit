@@ -1,34 +1,44 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
 
-First, run the development server:
+<h1 align="center">   MoveIt </h1>
+<h3 align="center">    </h3>
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+______________________________________________________________
+<p align="center">
+ <a href="#objetivo">Objetivo</a> •
+  <a href="#features">Status do Projeto</a> • 
+   <a href="#tecnologias">Tecnologias</a> • 
+   <a href="#contribuicao"> Pré-requisitos / Rodar a aplicação</a> • 
+ <a href="#autor">Autor</a>
+</p>
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+<div  id="objetivo"> <h1> Objetivo </h1> </div>
+<p> 
+ 
+ 
+<div  id="features"> <h1> Status do Projeto </h1> </div>
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+:construction: *Em construção...* :construction:
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+- [x] Frontend Web
+- [ ] Aplicativo Mobile
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
 
-## Learn More
+<div  id="tecnologias"> <h1> Tecnologias </h1> </div>
+<ul>
+<li>  Typescript </li> 
+<li>  ReactJs </li> 
+<li>  NextJs </li> 
+</ul>
+<div  id="contribuicao"> <h1>Pré-requisitos / Rodar a aplicação </h1> </div>
+<p> 
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
 
-To learn more about Next.js, take a look at the following resources:
+</p>
+<div  id="autor"> <h1> Autor </h1> </div>
+<p> 
+• <a href="https://www.linkedin.com/in/wislla-nuanska-b124371a4/"> Wislla Nuânska </a>
+</p>
+<p> 
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+</p>
